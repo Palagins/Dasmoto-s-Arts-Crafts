@@ -1,0 +1,35 @@
+.dasmoto{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+.brushes{
+   font-family: helvetica;
+   color: white;
+   font-size: 32px;
+   font-weight: bold;
+   background-color: MediumSpringGreen;
+}
+.frames{
+  font-family: helvetica;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  background-color: lightcoral;
+}
+.paint{
+  font-family: helvetica;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  background-color: SkyBlue;
+}
+.a{
+  color: blue;
+  font-family: helvetica;
+  font-weight: bold;
+}
